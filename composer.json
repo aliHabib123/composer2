@@ -1,0 +1,11 @@
+{
+	"name" : "alihabib/phpsdk1",
+	"description" : "a php package",
+	"type" : "library",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Ali Habib",
+			"email" : "alihabib2005@hotmail.com"
+		}
+	]
+}
